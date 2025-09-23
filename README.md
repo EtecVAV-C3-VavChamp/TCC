@@ -38,7 +38,7 @@ O layout foi desenvolvido com foco em simplicidade e navegação direta — com 
 
 ## 🌐 Demonstração / Acesso
 
-Você pode acessar o projeto a partir do endereço: https://vavchamp.com/ 
+Você pode acessar o projeto a partir do endereço: [https://vavchamp.com/](https://vavchamp.com/)
 
 ## 👥 Desenvolvedores
 
