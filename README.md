@@ -50,4 +50,4 @@ Você pode acessar o projeto a partir do endereço: [https://vavchamp.com/](http
 
 ## 📝 Licença
 
-Este projeto está sob a licença GPL-3.0.Veja o arquivo LICENSE.md para mais detalhes.
+Este projeto está sob a licença GPL-3.0.Veja o arquivo [LICENSE] para mais detalhes.
