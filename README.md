@@ -6,29 +6,29 @@ O Vav Champ é um sistema web proposto e desenvolvido como Trabalho de Conclusã
 
 ## ✨ Benefícios
 
--Organização e automação de fluxos de competição
+- Organização e automação de fluxos de competição
 
--Transparência no gerenciamento de resultados
+- Transparência no gerenciamento de resultados
 
--Facilita o trabalho de organizadores e professores de educação física
+- Facilita o trabalho de organizadores e professores de educação física
 
--Interface pensada para acessibilidade e usabilidade
+- Interface pensada para acessibilidade e usabilidade
 
 ## 🔍 Funcionalidades principais
 
--Sistema de login com perfis diferenciados (usuário comum / organizador / administrador)
+- Sistema de login com perfis diferenciados (usuário comum / organizador / administrador)
 
--Cadastro e gerenciamento de competições (nome, modalidade, descrição, taxa, datas)
+- Cadastro e gerenciamento de competições (nome, modalidade, descrição, taxa, datas)
 
--Cadastro e gestão de times e atletas
+- Cadastro e gestão de times e atletas
 
--Gestão de usuários (edição, remoção, tipos de usuário)
+- Gestão de usuários (edição, remoção, tipos de usuário)
 
--Criação e edição de modalidades esportivas
+- Criação e edição de modalidades esportivas
 
--Sorteio/geração automática de chaveamento (Winners Bracket e Losers Bracket — eliminação dupla)
+- Sorteio/geração automática de chaveamento (Winners Bracket e Losers Bracket — eliminação dupla)
 
--Registro de resultados e geração automática da próxima fase ao salvar vencedores
+- Registro de resultados e geração automática da próxima fase ao salvar vencedores
 
 -Emissão de estatísticas e relatórios resumidos do campeonato
 
@@ -42,9 +42,11 @@ Você pode acessar o projeto a partir do endereço: https://vavchamp.com/ 
 
 ## 👥 Desenvolvedores
 
--Marcelo Silva Lins
--Natan Santiago Flores 
--Vítor Raul de Morais Costa
+- Marcelo Silva Lins
+
+- Natan Santiago Flores
+
+- Vítor Raul de Morais Costa
 
 ## 📝 Licença
 
