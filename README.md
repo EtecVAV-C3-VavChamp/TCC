@@ -30,7 +30,7 @@ O Vav Champ é um sistema web proposto e desenvolvido como Trabalho de Conclusã
 
 - Registro de resultados e geração automática da próxima fase ao salvar vencedores
 
--Emissão de estatísticas e relatórios resumidos do campeonato
+- Emissão de estatísticas e relatórios resumidos do campeonato
 
 ## 🧭 Acessibilidade e UX
 
@@ -50,4 +50,4 @@ Você pode acessar o projeto a partir do endereço: https://vavchamp.com/ 
 
 ## 📝 Licença
 
-Este projeto está sob a licença GPL-3.0.Veja o arquivo <a name="LICENSE.md"></a> para mais detalhes.
+Este projeto está sob a licença GPL-3.0.Veja o arquivo LICENSE.md para mais detalhes.
