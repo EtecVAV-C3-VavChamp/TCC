@@ -52,13 +52,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             exit();
             
         } elseif (isset($_POST["gerar_chaveamento"])) {
-            Campeonato::gerarChaveamento($id);
-            $_SESSION['toast'] = [
-                'type' => 'success',
-                'message' => 'Chaveamento gerado com sucesso!'
-            ];
-            header("Location: editar.php?id=$id");
-            exit();
+    // Redirecionar para o script de gerar confrontos
+    header("Location: gerar_confrontos.php?id=$id");
+    exit();
             
         } elseif (isset($_POST["salvar_campeonato"])) {
             $_POST["times_participantes"] = $_POST["times_participantes"] ?? [];
